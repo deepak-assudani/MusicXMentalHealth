@@ -1,6 +1,7 @@
 # Music and Mental Health Analysis 🎵🧠
 
 This project aims to explore the relationship between music and mental health, specifically focusing on depression. The analysis utilises publicly available data sourced from Kaggle, which is then cleaned and analysed using Python and Tableau.
+[Click here to see Tableau Dashboard](https://public.tableau.com/app/profile/deepak.assudani/viz/MusicxMentalHealth_17151776848650/DBGenreForeignLangvsEffect)
 
 ## Data Source 📊
 
@@ -61,8 +62,6 @@ To replicate or further explore the analysis, follow these steps:
 This project is licensed under the [MIT Licence](LICENSE). Feel free to use and modify the code as needed. Contributions are welcome!
 
 ![OriginalData](https://github.com/deepak-assudani/MusicXMentalHealth/assets/168087466/f6171fbb-8ee3-4dac-a6df-075f24fcbd95)
-https://public.tableau.com/app/profile/deepak.assudani/viz/MusicxMentalHealth_17151776848650/DBGenreForeignLangvsEffect
-
 
 ![Python1](https://github.com/deepak-assudani/MusicXMentalHealth/assets/168087466/fb107938-9ab6-4dd8-992b-6f5dfda1a633)
 
@@ -75,3 +74,5 @@ https://public.tableau.com/app/profile/deepak.assudani/viz/MusicxMentalHealth_17
 ![Chart1](https://github.com/deepak-assudani/MusicXMentalHealth/assets/168087466/785c7a78-a9b6-4052-89c9-633c7ea88e6a)
 
 ![Chart2](https://github.com/deepak-assudani/MusicXMentalHealth/assets/168087466/74706927-06aa-4133-841c-a9b793b9054c)
+
+[Click here to see Tableau Dashboard](https://public.tableau.com/app/profile/deepak.assudani/viz/MusicxMentalHealth_17151776848650/DBGenreForeignLangvsEffect)
